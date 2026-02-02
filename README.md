@@ -233,7 +233,10 @@ Petrol and Diesel dominate the market
 Automatic cars generate higher overall value
 
 Electric and Hybrid cars have higher average prices but lower adoption
-![Car Sales Dashboard](images/dashboard.png)
+
+Screen Shot Of POWER BI Dashboard
+![Car Sales Dashboard](https://github.com/USERNAME/REPO_NAME/blob/main/dashboard.png?raw=true)
+
 
 
 👤 Author
