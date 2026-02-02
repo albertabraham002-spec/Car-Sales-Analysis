@@ -235,7 +235,7 @@ Automatic cars generate higher overall value
 Electric and Hybrid cars have higher average prices but lower adoption
 
 Screen Shot Of POWER BI Dashboard
-![Car Sales Dashboard](https://github.com/USERNAME/REPO_NAME/blob/main/dashboard.png?raw=true)
+[Car Sales Dashboard](https://github.com/USERNAME/REPO_NAME/blob/main/dashboard.png?raw=true)
 
 
 
