@@ -160,5 +160,4 @@ Highlight vehicle condition, service history, and warranty details
 ✅ Conclusion
 
 This analysis shows that brand, transmission type, fuel type, and vehicle condition play a major role in determining car prices. While petrol and diesel vehicles currently dominate the market, electric and hybrid vehicles present strong future growth potential. Strategic inventory planning and targeted marketing can significantly improve sales performance.
-SCREEN SHOT POWER BI DASHBOARD
-![Car Sales Dashboard.png](https://github.com/albert-abraham/Car Sales Dashboard.png/blob/main/dashboard.png/raw=true)
+
